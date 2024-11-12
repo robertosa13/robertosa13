@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Roberto! An engineer with 7 years' experience in systems development, mba in data engineering and data and a master's degree in artificial intelligence/computer engineering with a focus on Big Data!
+Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MBA in data engineering and a master's degree in artificial intelligence/computer engineering with a focus on Big Data!
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/roberto-sa/)
