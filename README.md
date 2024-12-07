@@ -6,6 +6,8 @@ Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MB
 | </a> | <a href="https://github.com/robertosa13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosa13&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 | </a> | <a href="https://github.com/robertosa13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosa13&layout=compact&theme=buefy&hide_border=true&langs_count=10" /></a> |
+
+| </a> | <a href="https://github.com/robertosa13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosa13&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
 
 ### 📫 How to reach me:
