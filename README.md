@@ -2,6 +2,10 @@
 
 Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MBA in data engineering and a master's degree in artificial intelligence/computer engineering with a focus on Big Data!
 
+### Stats 📊:
+| </a> | <a href="https://github.com/robertosa13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosa13&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/roberto-sa/)
 
