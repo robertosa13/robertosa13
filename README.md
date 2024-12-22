@@ -22,7 +22,7 @@ Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MB
 | | | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) | ![AZ 900](https://img.shields.io/badge/Azure-AZ%20900-0078D4?style=flat&logo=microsoft-azure&logoColor=white) - Azure Fundamentals |
 | | | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/DataBricks-Apache%20Spark%203.0-E25A1C?style=flat&logo=apachespark&logoColor=white) - Certified Associate Developer for Apache Spark 3.0 |
 | | | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) | ![IBM Data Engineer](https://img.shields.io/badge/IBM-Certified%20Data%20Engineer-052FAD?style=flat&logo=ibm&logoColor=white) - IBM Certified Data Engineer |
-| | | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | |
+| | | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-blue?logo=amazon-aws&style=flat)|
 | | | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | |
 | | | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | |
 | | | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | |
