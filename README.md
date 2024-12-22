@@ -2,6 +2,18 @@
 
 Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MBA in data engineering and a master's degree in artificial intelligence/computer engineering with a focus on Big Data!
 
+
+## Certifications
+ 
+<a href="https://www.credly.com/badges/722315e6-2637-4d7c-9379-2e102466380f/public_url" target="_blank" title="Badge AWS Certified Cloud Practitioner – Foundational" alt="AWS Certified Cloud Practitioner – Foundational"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner – Foundational" width="110px"  style="max-width:110px;"></a>&nbsp; &nbsp; 
+<a href="https://www.credly.com/badges/0006e0fd-b90a-47e5-bed5-829eb0c7daf1/public_url" target="_blank" title="Badge Microsoft Azure Fundamentals AZ 900" alt="Microsoft Azure Fundamentals AZ 900"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals AZ 900" width="110px"  style="max-width:110px;"></a>&nbsp; &nbsp; 
+<a href="https://www.credly.com/badges/8c4e7aad-e09a-4c0f-aca9-c39576d0ffb2/public_url" target="_blank" title="Badge Hadoop Foundations" alt="Hadoop Foundations"><img src="https://images.credly.com/size/220x220/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob" alt="Hadoop Foundations" width="110px"  style="max-width:110px;"></a>&nbsp; &nbsp; 
+
+
+
+
+
+
 ### Stats 📊:
 
 | </a> | <a href="https://github.com/robertosa13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosa13&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide=jupyter%20notebook" /></a> |
