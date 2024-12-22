@@ -7,11 +7,12 @@ Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MB
  
 <a href="https://www.credly.com/badges/722315e6-2637-4d7c-9379-2e102466380f/public_url" target="_blank" title="Badge AWS Certified Cloud Practitioner – Foundational" alt="AWS Certified Cloud Practitioner – Foundational"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner – Foundational" width="110px"  style="max-width:110px;"></a>&nbsp; &nbsp; 
 <a href="https://www.credly.com/badges/0006e0fd-b90a-47e5-bed5-829eb0c7daf1/public_url" target="_blank" title="Badge Microsoft Azure Fundamentals AZ 900" alt="Microsoft Azure Fundamentals AZ 900"><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Azure Fundamentals AZ 900" width="110px"  style="max-width:110px;"></a>&nbsp; &nbsp; 
+<a href="https://credentials.databricks.com/cab16cea-ab42-45a9-b025-53a1f9de7240" target="_blank" title="Databricks Certified Associate Developer for Apache Spark 3.0" alt="Databricks Certified Associate Developer for Apache Spark 3.0"><img src="src/images/spark.png" alt="Databricks Certified Associate Developer for Apache Spark 3.0" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;
 <a href="https://www.credly.com/badges/8c4e7aad-e09a-4c0f-aca9-c39576d0ffb2/public_url" target="_blank" title="Badge Hadoop Foundations" alt="Hadoop Foundations"><img src="https://images.credly.com/size/220x220/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob" alt="Hadoop Foundations" width="110px"  style="max-width:110px;"></a>&nbsp; &nbsp; 
 <a href="src/images/Credential Badge - Mainline - Certified System Administrator.png" target="_blank" title="Certified System Administrator" alt="Certified System Administrator"><img src="src/images/Credential Badge - Mainline - Certified System Administrator.png" alt="Certified System Administrator" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp; 
 <a href="src/images/Credential Badge - Mainline - Certified Application Developer.png" target="_blank" title="Certified Application Developer" alt="Certified System Administrator"><img src="src/images/Credential Badge - Mainline - Certified Application Developer.png" alt="Certified Application Developer" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp; 
-<a href="src/images/Credential Badge - Mainline - Certified Implementation Specialist PA.png" target="_blank" title="Certified Implementation Specialist PA" alt=" Certified Implementation Specialist PA"><img src="src/images/Credential Badge - Mainline - Certified Implementation Specialist PA.png" alt="Certified Implementation Specialist PA" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp; 
 
+<a href="src/images/Credential Badge - Mainline - Certified Implementation Specialist PA.png" target="_blank" title="Certified Implementation Specialist PA" alt=" Certified Implementation Specialist PA"><img src="src/images/Credential Badge - Mainline - Certified Implementation Specialist PA.png" alt="Certified Implementation Specialist PA" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp; 
 <a href="src/images/Credential Badge - Mainline - Implementation Specialist ITSM.png" target="_blank" title="Implementation Specialist ITSM" alt="Implementation Specialist ITSM"><img src="src/images/Credential Badge - Mainline - Implementation Specialist ITSM.png" alt="Implementation Specialist ITSM" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp; 
 <a href="src/images/Credential Badge - Suite - Certified ITSM Professional.png" target="_blank" title="Certified ITSM Professional" alt="Certified ITSM Professional"><img src="src/images/Credential Badge - Suite - Certified ITSM Professional.png" alt="Certified ITSM Professional" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;
 <a href="src/images/Credential Badge - Mainline - Certified Implementation Specialist Discovery.png" target="_blank" title="Certified Implementation Specialist Discovery" alt="Certified Implementation Specialist Discovery"><img src="src/images/Credential Badge - Mainline - Certified Implementation Specialist Discovery.png" alt="Certified Implementation Specialist Discovery" width="100px"  style="max-width:100px;"></a>&nbsp; &nbsp;
@@ -20,39 +21,40 @@ Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MB
 
 
 
-### Stats 📊:
-
-| </a> | <a href="https://github.com/robertosa13/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertosa13&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide=jupyter%20notebook" /></a> |
-| ------------- | ------------- |
-
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/roberto-sa/)
 
-| **Languages** | **Backend Frameworks** | **Tools** | **Certifications** |
-| ------------- | ----------------------- | --------- | ------------------- |
-| ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) | ![CSA](https://img.shields.io/badge/ServiceNow-CSA-4CAF50?style=flat&logo=servicenow&logoColor=white) - Certified System Administrator |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) | ![CAD](https://img.shields.io/badge/ServiceNow-CAD-4CAF50?style=flat&logo=servicenow&logoColor=white) - Certified Application Developer |
-| ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![CAS PA](https://img.shields.io/badge/ServiceNow-CAS%20PA-4CAF50?style=flat&logo=servicenow&logoColor=white) - Certified Application Specialist Performance Analytics |
-| ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ![CIS ITSM](https://img.shields.io/badge/ServiceNow-CIS%20ITSM-4CAF50?style=flat&logo=servicenow&logoColor=white) - Certified Implementation Specialist IT Service Management |
-| ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) | | ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white) | ![CIS SPM](https://img.shields.io/badge/ServiceNow-CIS%20SPM-4CAF50?style=flat&logo=servicenow&logoColor=white) - Certified Implementation Specialist Strategic Portfolio Management |
-| | | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![CIS Discovery](https://img.shields.io/badge/ServiceNow-CIS%20Discovery-4CAF50?style=flat&logo=servicenow&logoColor=white) - Certified Implementation Specialist Discovery |
-| | | ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) | ![CIS EM](https://img.shields.io/badge/ServiceNow-CIS%20EM-4CAF50?style=flat&logo=servicenow&logoColor=white) - Certified Implementation Specialist Event Management |
-| | | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) | ![AZ 900](https://img.shields.io/badge/Azure-AZ%20900-0078D4?style=flat&logo=microsoft-azure&logoColor=white) - Azure Fundamentals |
-| | | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) | ![Apache Spark](https://img.shields.io/badge/DataBricks-Apache%20Spark%203.0-E25A1C?style=flat&logo=apachespark&logoColor=white) - Certified Associate Developer for Apache Spark 3.0 |
-| | | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) | ![IBM Data Engineer](https://img.shields.io/badge/IBM-Certified%20Data%20Engineer-052FAD?style=flat&logo=ibm&logoColor=white) - IBM Certified Data Engineer |
-| | | ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) | ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-blue?logo=amazon-aws&style=flat)|
-| | | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | |
-| | | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | |
-| | | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) | |
-| | | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) | |
-| | | ![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black) | |
-| | | ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) | |
-| | | ![AppSheet](https://img.shields.io/badge/-AppSheet-34A853?style=flat&logo=appsheet&logoColor=white) | |
-| | | ![Apigee](https://img.shields.io/badge/-Apigee-4285F4?style=flat&logo=apigee&logoColor=white) | |
-| | | ![ServiceNow](https://img.shields.io/badge/-ServiceNow-4CAF50?style=flat&logo=servicenow&logoColor=white) | |
-| | | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) | |
+## Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
+## Backend Frameworks
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 
-
-
-
+## Tools
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Apache Hadoop](https://img.shields.io/badge/-Apache%20Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![AppSheet](https://img.shields.io/badge/-AppSheet-34A853?style=flat&logo=appsheet&logoColor=white)
+![Apigee](https://img.shields.io/badge/-Apigee-4285F4?style=flat&logo=apigee&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-4CAF50?style=flat&logo=servicenow&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
