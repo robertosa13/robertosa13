@@ -2,7 +2,6 @@
 
 Hi, I'm Roberto! An engineer with 7 years' experience in systems development, MBA in data engineering and a master's degree in artificial intelligence/computer engineering with a focus on Big Data!
 
-
 ## Certifications
  
 <a href="https://www.credly.com/badges/722315e6-2637-4d7c-9379-2e102466380f/public_url" target="_blank" title="Badge AWS Certified Cloud Practitioner – Foundational" alt="AWS Certified Cloud Practitioner – Foundational"><img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner – Foundational" width="110px"  style="max-width:110px;"></a>&nbsp; &nbsp; 
